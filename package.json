@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "RSVP plateform using smart contracts",
   "main": "index.js",
+  "scripts": {
+    "script": "node scripts/run.js"
+  },
   "author": "Floriane Le Floch",
   "license": "ISC",
   "devDependencies": {
